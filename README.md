@@ -18,7 +18,7 @@
 ### :muscle: スキル 
 
 - **パブリッククラウド管理**
-  - [AWS ソリューションアーキテクト アソシエイト](https://www.youracclaim.com/badges/0ee707e2-ae1f-4dd8-b57a-10bf069c73b2/public_url) 保有
+  - AWS 実務経験 (2015~) / [AWS ソリューションアーキテクト アソシエイト](https://www.youracclaim.com/badges/0ee707e2-ae1f-4dd8-b57a-10bf069c73b2/public_url) 保有
   - GCP 実務経験 (2018~)
 - **フロントエンド開発経験**
   - HTML5, CSS3, JavaScript
