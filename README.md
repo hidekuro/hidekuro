@@ -25,7 +25,7 @@
   - DOM 理解、カスケードスタイリング、イベントの取り扱いなど、各種フレームワークに入門する前提知識はあると思います。
 - **サーバーサイド開発経験**
   - Java (SprintBoot, JavaEE) / Python (AWS Lambda, Luigi) / PHP (Laravel, Composer) / JavaScript (AWS Lambda)
-  - SQL / RDBMS (MySQL, Oracle)
+  - SQL / RDBMS (MySQL, MariaDB, Oracle)
   - 基幹システム、ECサイト、社内向け小規模サイトなど色々。
 - **ネイティブアプリ開発経験**
   - Android (Java), iOS (ObjectiveC), Windows デスクトップ (C#/WPF)
