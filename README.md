@@ -6,7 +6,7 @@
 [![](https://raw.githubusercontent.com/hidekuro/hidekuro/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/hidekuro/hidekuro/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-#### :star2: 興味・関心・好きなもの
+### :star2: 興味・関心・好きなもの
 
 - DevOps/SRE
 - Kubernetes, Docker
@@ -15,7 +15,7 @@
 - :video_game: ゲーム
 - :coffee: カフェオレ
 
-#### :muscle: スキル 
+### :muscle: スキル 
 
 - **パブリッククラウド管理**
   - [AWS ソリューションアーキテクト アソシエイト](https://www.youracclaim.com/badges/0ee707e2-ae1f-4dd8-b57a-10bf069c73b2/public_url) 保有
