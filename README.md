@@ -28,5 +28,5 @@
   - SQL / RDBMS (MySQL, MariaDB, Oracle)
   - 基幹システム、ECサイト、社内向け小規模サイトなど色々。
 - **ネイティブアプリ開発経験**
-  - Android (Java), iOS (ObjectiveC), Windows デスクトップ (C#/WPF)
+  - Android (Java) / iOS (ObjectiveC) / Windows デスクトップ (C#, WPF)
   - 近年触っていないため知識のアップデートが必要なレベル。
