@@ -18,15 +18,15 @@
 ### :muscle: スキル 
 
 - **パブリッククラウド管理 (5 years+)**
-  - AWS 実務経験 (2015~) / [AWS ソリューションアーキテクト アソシエイト](https://www.youracclaim.com/badges/0ee707e2-ae1f-4dd8-b57a-10bf069c73b2/public_url) 保有
-  - GCP 実務経験 (2018~)
-- **フロントエンド開発経験 (5 years+)**
+  - AWS (2015~) / [AWS ソリューションアーキテクト アソシエイト](https://www.youracclaim.com/badges/0ee707e2-ae1f-4dd8-b57a-10bf069c73b2/public_url) 保有
+  - GCP (2018~) 社内向け用途での IAM 管理や、小規模な利用。
+- **フロントエンド開発 (5 years+)**
   - HTML5, CSS3, JavaScript
   - DOM 理解、カスケードスタイリング、イベントの取り扱いなど、各種フレームワークに入門する前提知識はあると思います。
-- **サーバーサイド開発経験 (10 years+)**
+- **サーバーサイド開発 (10 years+)**
   - Java (SprintBoot, JavaEE) / Python (AWS Lambda, Luigi) / PHP (Laravel, Composer) / JavaScript (AWS Lambda)
   - SQL / RDBMS (MySQL, MariaDB, Oracle)
   - 基幹システム、ECサイト、社内向け小規模サイトなど色々。
-- **ネイティブアプリ開発経験 (3 years+)**
+- **ネイティブアプリ開発 (3 years+)**
   - Android (Java) / iOS (ObjectiveC) / Windows デスクトップ (C#, WPF)
   - 近年触っていないため知識のアップデートが必要なレベル。
