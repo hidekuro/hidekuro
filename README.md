@@ -27,9 +27,9 @@
   - HTML5, CSS3, JavaScript
   - DOM 理解、カスケードスタイリング、イベントの取り扱いなど、各種フレームワークに入門する前提知識はあると思います。
 - **サーバーサイド開発 (10 years+)**
-  - Java (SprintBoot, JavaEE) / Python (AWS Lambda, Luigi) / PHP (Laravel, Composer) / JavaScript (AWS Lambda)
-  - SQL / RDBMS (MySQL, MariaDB, Oracle)
+  - Java (SpringBoot, JavaEE) / Python (AWS Lambda, Luigi) / PHP (Laravel, Composer) / JavaScript (AWS Lambda)
+  - SQL / RDBMS (Aurora, MySQL, MariaDB, Oracle)
   - 基幹システム、ECサイト、社内向け小規模サイトなど色々。
 - **ネイティブアプリ開発 (3 years+)**
   - Android (Java) / iOS (ObjectiveC) / Windows デスクトップ (C#, WPF)
-  - 近年触っていないため知識のアップデートが必要なレベル。
+  - 近年触っていないため1から知識の更新が必要なレベル。
