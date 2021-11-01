@@ -10,12 +10,21 @@
 
 ### :star2: 興味・関心・好きなもの
 
-- DevOps/SRE
-- Kubernetes, Docker
-- AWS, GCP
-- :cat: 猫
-- :video_game: ゲーム
-- :coffee: カフェオレ
+- 🛠️ DevOps/SRE
+- ☸️ Kubernetes
+- 🐳 Docker
+- ☁️ AWS, GCP
+- 🐱 猫
+- 🎮 ゲーム
+- ☕ カフェオレ
+- 🍐 梨
+
+### 🔖 特によく利用するツールやサービス
+
+- :octocat: GitHub
+- ☁️ AWS, GCP
+- 🐳 Docker
+- 💻 VisualStudio Code
 
 ### :muscle: スキル 
 
@@ -37,3 +46,5 @@
 - **ネイティブアプリ開発 (3 years+)**
   - Android (Java) / iOS (ObjectiveC) / Windows デスクトップ (C#, WPF)
   - 近年実務でまったく触れていないためゼロから知識の更新が必要。
+- **その他**
+  - Google Workspace 組織管理 (3 years+)
