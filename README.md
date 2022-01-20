@@ -29,8 +29,10 @@
 ### :muscle: スキル 
 
 - **クラウド設計/管理、ソリューションアーキテクト (5 years+)**
-  - AWS (2015~) / [AWS ソリューションアーキテクト アソシエイト](https://www.credly.com/badges/0ee707e2-ae1f-4dd8-b57a-10bf069c73b2/public_url) 保有 / production use なリソース設計と構築、コード化。
-  - GCP (2018~) 社内向け用途での IAM 管理や、小規模な利用。
+  - AWS (2015~) / [AWS ソリューションアーキテクト アソシエイト](https://www.credly.com/badges/0ee707e2-ae1f-4dd8-b57a-10bf069c73b2/public_url) 保有
+    - production use なリソース設計と構築、コード化。
+    - Control Tower を活用したシングルアカウントからマルチアカウントへの移行と組織管理
+  - GCP (2018~) / 社内向け用途での IAM 管理や、小規模な利用。
 - **DevOps/SRE (4 years+)**
   - 2022年現在で最も関心が強く、また得意な分野です。
   - AWS CodeBuild/CodeDeploy/CodePipeline, GitHub Actions, Bitbucket Pipelines
