@@ -45,7 +45,7 @@
   - DOM の理解、カスケードスタイリング、イベントの取り扱いなど、各種フレームワークに入門する前提知識はあると思います。
 - **サーバーサイド開発 (10 years+)**
   - Java (SpringBoot, JavaEE)
-  - Python (AWS Lambda, Luigi)
+  - Python3 (AWS Lambda, Luigi)
   - PHP (Laravel, Composer)
   - JavaScript (NodeJS, AWS Lambda)
   - SQL / RDBMS (Aurora, MySQL, MariaDB, Oracle)
