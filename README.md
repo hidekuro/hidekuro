@@ -35,9 +35,9 @@
   - GCP (2018~) / 社内向け用途での IAM 管理や、小規模な利用。
 - **DevOps/SRE (4 years+)**
   - 2022年現在で最も関心が強く、また得意な分野です。
+  - Terraform, Docker, Ansible
   - AWS CodeBuild/CodeDeploy/CodePipeline, GitHub Actions, Bitbucket Pipelines
   - Datadog ダッシュボード管理、メトリクス分析、ログ分析
-  - Terraform,  Docker, Ansible
   - (Hands-On レベル) Kubernetes 
 - **フロントエンド開発 (5 years+)**
   - HTML5, CSS3, JavaScript
