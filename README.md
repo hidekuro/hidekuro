@@ -1,14 +1,16 @@
-### :wave: Hi there
+# About me
+
+## :wave: Hi there
 
 良く言えばフルスタックエンジニア、有り体に言えば IT 土方です。
 
-[![](https://raw.githubusercontent.com/hidekuro/hidekuro/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/hidekuro/hidekuro/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/hidekuro/hidekuro/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![profile-details](https://raw.githubusercontent.com/hidekuro/hidekuro/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![repos-per-language](https://raw.githubusercontent.com/hidekuro/hidekuro/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![most-commit-language](https://raw.githubusercontent.com/hidekuro/hidekuro/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hidekuro&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### :star2: 興味・関心・好きなもの
+## :star2: 興味・関心・好きなもの
 
 - 🛠️ DevOps/SRE
 - ☸️ Kubernetes
@@ -19,14 +21,14 @@
 - ☕ カフェオレ
 - 🍐 梨
 
-### 🔖 特によく利用するツールやサービス
+## 🔖 特によく利用するツールやサービス
 
 - :octocat: GitHub
 - ☁️ AWS, GCP
 - 🐳 Docker
 - 💻 VisualStudio Code
 
-### :muscle: スキル 
+## :muscle: スキル
 
 - **クラウド設計/管理、ソリューションアーキテクト (5 years+)**
   - AWS (2015~) / [AWS ソリューションアーキテクト アソシエイト](https://www.credly.com/badges/0ee707e2-ae1f-4dd8-b57a-10bf069c73b2/public_url) 保有
@@ -38,7 +40,7 @@
   - Terraform, Docker, Ansible
   - AWS CodeBuild/CodeDeploy/CodePipeline, GitHub Actions, Bitbucket Pipelines
   - Datadog ダッシュボード管理、メトリクス分析、ログ分析
-  - (Hands-On レベル) Kubernetes 
+  - (Hands-On レベル) Kubernetes
 - **フロントエンド開発 (5 years+)**
   - HTML5, CSS3, JavaScript
   - 近年実務で触れていないため要再勉強。
