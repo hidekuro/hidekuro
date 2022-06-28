@@ -1,6 +1,6 @@
 # About me
 
-## :wave: Hi there
+## 👋 Hi there
 
 良く言えばフルスタックエンジニア、有り体に言えば IT 土方です。
 
@@ -10,7 +10,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hidekuro&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## :star2: 興味・関心・好きなもの
+## 🌟 興味・関心・好きなもの
 
 - 🛠️ DevOps/SRE
 - ☸️ Kubernetes
