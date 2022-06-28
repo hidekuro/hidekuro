@@ -14,6 +14,7 @@
 
 - 🛠️ DevOps/SRE
 - ☸️ Kubernetes
+- ⚙️ Terraform
 - 🐳 Docker
 - ☁️ AWS, GCP
 - 🐱 猫
