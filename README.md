@@ -43,6 +43,7 @@
 - アプリのコンテナ化
 - Infrastructure as Code / Configuration as Code
 - CI/CD
+- システムの各種メトリクス分析
 - 各種自動化
 - etc...
 
