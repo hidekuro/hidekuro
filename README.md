@@ -10,17 +10,21 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hidekuro&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🌟 興味・関心・好きなもの
+## ❤️ 好きなもの
 
-- 🛠️ DevOps/SRE
+- 🎮 ゲーム
+- ☕ カフェオレ
+- 🐱 猫
+- 🍐 梨
+
+## 🌟 技術的な興味関心
+
+- 🛠️ DevOps
+- 🛡️ SRE
+- ☁️ AWS, GCP
 - ☸️ Kubernetes
 - ⚙️ Terraform
 - 🐳 Docker
-- ☁️ AWS, GCP
-- 🐱 猫
-- 🎮 ゲーム
-- ☕ カフェオレ
-- 🍐 梨
 
 ## 🔖 特によく利用するツールやサービス
 
@@ -29,7 +33,34 @@
 - 🐳 Docker
 - 💻 VisualStudio Code
 
-## 💪 スキル
+## 💙 好きな業務分野
+
+ソリューションアーキテクト、 DevOps エンジニア、 SREng としての仕事に興味が強いです。
+
+- クラウドソリューション設計
+- アーキテクチャ設計
+- 開発環境整備
+- アプリのコンテナ化
+- Infrastructure as Code / Configuration as Code
+- CI/CD
+- 各種自動化
+- etc...
+
+## 📖 これまでの経験業務
+
+- AWS マルチアカウント管理
+- システムのアーキテクチャ設計
+- Web アプリケーション開発 (インフラ、バックエンド、フロントエンド)
+- 開発チームの環境整備 (Docker, AWS, GCP, Win/Linux/macOS 様々な環境のサポート)
+- 5～10名程度のプロジェクトマネジメント (ウォーターフォール、アジャイル)
+- 受託開発における顧客折衝、要件定義、見積もり、開発、検証、納品、運用
+- 情シスに類する業務 (SaaS 導入や管理設定、社内システムの構築・運用・管理・監視、社内メンバーのサポート等)
+- エンジニア採用業務 (書類選考、面談、社内向け評価システムの制定、コーディングチャレンジの評価など)
+- 新人指導 (新卒者メンタリング、教材作成、新人指導しながらの開発業務、中途採用者の受け入れサポートなど)
+- Android / iOS アプリ開発 (Java / Objective-C 時代なので開発はゼロから勉強しなおしが必要…)
+- Windows デスクトップアプリ開発
+
+## 💪 スキルセット
 
 - **クラウド設計/管理、ソリューションアーキテクト (5 years+)**
   - AWS (2015~) / ~~[AWS ソリューションアーキテクト アソシエイト](https://www.credly.com/badges/0ee707e2-ae1f-4dd8-b57a-10bf069c73b2/public_url) 保有~~ Expired.  Professional の取得に向けて準備中 😎
