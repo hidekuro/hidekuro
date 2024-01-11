@@ -64,7 +64,7 @@
 ## 💪 スキルセット
 
 - **クラウド設計/管理、ソリューションアーキテクト (5years+)**
-  - AWS (2015~) / ~~[AWS ソリューションアーキテクト アソシエイト](https://www.credly.com/badges/0ee707e2-ae1f-4dd8-b57a-10bf069c73b2/public_url) 保有~~ Expired. 必要になったら　Professional で取り直します 😎
+  - AWS (2015~) / ~~[AWS ソリューションアーキテクト アソシエイト](https://www.credly.com/badges/0ee707e2-ae1f-4dd8-b57a-10bf069c73b2/public_url)~~ Expired. 必要になったら　Professional で取り直します 😎
     - production use なリソース設計と構築、コード化 (Terraform, CloudFormation) 。
     - Control Tower を使用したシングルアカウントからマルチアカウントへの移行、および組織管理。
   - GCP (2018~)
