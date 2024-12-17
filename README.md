@@ -70,7 +70,7 @@
   - GCP (2018~)
     - 社内向け用途でのリソースと　IAM の管理や、個人で小規模な利用。
 - **DevOps/SRE (4years+)**
-  - 2023年現在でも関心が強い分野です。
+  - 現在でも関心が強い分野です。
   - IaC ... Terraform, Docker, Ansible
   - Automation ... AWS CodeBuild/CodeDeploy/CodePipeline, GitHub Actions, Bitbucket Pipelines
   - Monitoring ... Datadog ダッシュボード管理、メトリクス分析、ログ分析
