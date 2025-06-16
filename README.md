@@ -85,7 +85,8 @@
   - PHP (Laravel, Composer) ... 5years+
   - JavaScript (NodeJS, AWS Lambda) ... 5years+
   - SQL / RDBMS (Aurora, MySQL, MariaDB, Oracle) ... 10years+
-  - Scala2 ... ~1year
+  - Scala2 ... 1years+
+  - TypeScript ... ~1year
   - 基幹システム、ECサイト、社内向け小規模サイトなど色々。
 - **ネイティブアプリ開発 (3years+)**
   - Android (Java) / iOS (ObjectiveC) / Windows デスクトップ (C#, WPF)
