@@ -63,6 +63,20 @@
 
 ## 💪 スキルセット
 
+- **サーバーサイド開発 (12years+)**
+  - Java (SpringBoot, JavaEE) ... 10years+
+  - Python3 (AWS Lambda, Luigi)　 ... 1years+
+  - PHP (Laravel, Composer) ... 5years+
+  - JavaScript (NodeJS, AWS Lambda) ... 5years+
+  - SQL / RDBMS (Aurora, MySQL, MariaDB, Oracle) ... 10years+
+  - Scala2 ... 2years+
+  - TypeScript ... ~1year
+  - 基幹システム、ECサイト、社内向け小規模サイトなど色々。
+- **フロントエンド開発 (5years+)**
+  - HTML5, CSS3, JavaScript
+  - 近年実務で触れていないため要再勉強。
+  - DOM の理解、カスケードスタイリング、イベントの取り扱いなど、各種フレームワークに入門する前提知識はあると思います。
+- **AI コーディングエージェントを用いた開発 (~1year)**
 - **クラウド設計/管理、ソリューションアーキテクト (5years+)**
   - AWS (2015~) / ~~AWS ソリューションアーキテクト アソシエイト~~ Expired.
     - production use なリソース設計と構築、コード化 (Terraform, CloudFormation) 。
@@ -75,19 +89,6 @@
   - Automation ... AWS CodeBuild/CodeDeploy/CodePipeline, GitHub Actions, Bitbucket Pipelines
   - Monitoring ... Datadog ダッシュボード管理、メトリクス分析、ログ分析
   - その他 (Hands-On レベル) Kubernetes
-- **フロントエンド開発 (5years+)**
-  - HTML5, CSS3, JavaScript
-  - 近年実務で触れていないため要再勉強。
-  - DOM の理解、カスケードスタイリング、イベントの取り扱いなど、各種フレームワークに入門する前提知識はあると思います。
-- **サーバーサイド開発 (12years+)**
-  - Java (SpringBoot, JavaEE) ... 10years+
-  - Python3 (AWS Lambda, Luigi)　 ... 1years+
-  - PHP (Laravel, Composer) ... 5years+
-  - JavaScript (NodeJS, AWS Lambda) ... 5years+
-  - SQL / RDBMS (Aurora, MySQL, MariaDB, Oracle) ... 10years+
-  - Scala2 ... 2years+
-  - TypeScript ... ~1year
-  - 基幹システム、ECサイト、社内向け小規模サイトなど色々。
 - **ネイティブアプリ開発 (3years+)**
   - Android (Java) / iOS (ObjectiveC) / Windows デスクトップ (C#, WPF)
   - 近年実務で触れておらず、経験 SDK も前世代なので、要再勉強。
